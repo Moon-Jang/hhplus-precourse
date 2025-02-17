@@ -4,7 +4,7 @@
 ❓ 누가/무엇을/언제/어디서/왜 를 세 줄 내외로 간단 명료하게
 </aside>
 
--
+- 게시판 시스템을 구현합니다. 사용자는 게시판을 읽고 게시글을 작성, 수정, 삭제할 수 있고 게시글에 댓글을 달수 있습니다. 또한 사용자는 회원가입 및 로그인이 가능합니다.
 
 ## 목표 (Goals)
 
@@ -26,7 +26,16 @@
 이 테크 스펙이 로우 레벨까지 다뤄야 한다면 HTTP 응답 코드, JSON 요청 / 응답 포맷, 에러 명세 등까지 모두 다뤄져야 합니다.
 </aside>
 
-[API 명세서 (참고용)](https://www.notion.so/API-17c2dc3ef51481959974d5e516f436da?pvs=21)
+- [API 명세서](https://moon-jang.github.io/hhplus-precourse-api-docs/)
+
+- ERD
+  
+  <img src="/assignments/week1/erd.png" width="200">
+
+- 유즈케이스 다이어그램
+  
+  <img src="/assignments/week1/use-case.png" width="400">
+
 
 ## 마일스톤 (Milestones)
 
